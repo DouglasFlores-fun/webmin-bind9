@@ -1,0 +1,10 @@
+$ttl 3600
+udb.edu.sv.     IN      SOA     127.0.0.1. douglas\.flores.udb.edu.sv. (
+                        1599918655
+                        3600
+                        600
+                        1209600
+                        3600 )
+udb.edu.sv.     IN      NS      dns1.udb.edu.sv.
+udb.edu.sv.     IN      A       127.0.0.1
+dns1.udb.edu.sv.        IN      A       127.0.0.1 

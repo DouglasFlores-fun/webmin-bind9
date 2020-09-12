@@ -1,0 +1,10 @@
+$ttl 3600
+asw.sv. IN      SOA     d442a2feb86d. douglas\.flores.udb.edu.sv. (
+                        1599918907
+                        3600
+                        600
+                        1209600
+                        3600 )
+asw.sv. IN      A       127.0.0.1
+asw.sv. IN      NS      dns1.asw.sv.
+dns1.asw.sv.    IN      A       127.0.0.1 
